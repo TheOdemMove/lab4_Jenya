@@ -1,0 +1,17 @@
+.vidos {
+    text-align: center;
+    margin-top: 10%;
+}
+
+body {
+    background-color: darkorchid;
+}
+
+.txt {
+    text-align: center;
+    margin-top: 10%;
+    font-size: 25px;
+    color: aliceblue;
+    text-transform: uppercase;
+    font-family: Consolas;
+}
